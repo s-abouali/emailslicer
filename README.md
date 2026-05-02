@@ -1,6 +1,6 @@
 # Email slicer ✂️
 
-Beginner Email Parser using ONLY string.index() + slicing! only!
+Beginner Email Slicer using ONLY string.index() + slicing! only!
 
 
 
